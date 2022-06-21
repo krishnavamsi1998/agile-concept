@@ -1,0 +1,147 @@
+Agility - it is the ability to move fast
+
+Agike is a time boxed, iterative approach
+
+It delivers software step by step in an incremented way
+
+It does not deliver the software all at once in the end
+
+It allows customers to make changes to their requirements
+
+face to face conversation between the team members
+
+A motivation in the team is the key to build a project
+
+self organizing teams : they have freedom to plan and commit to those plans to deliver 
+their best
+
+agility can be achieved by choosing one the given methodologies :
+
+1. scrum
+
+2. kanban
+
+It is a method to reduce work in progress and ensure smooth flow
+
+3. xp (Extreme programming)
+
+4. lean
+
+defines process for removal of waste in the workflow 
+
+
+Waterfall vs agile
+
+drawbacks of waterfall:
+
+1. end product is visible only at the
+end of SDLC cycle
+
+2. cost of changes or re-work
+in the SDLC is very high
+
+In waterfall model all requirements are built at a time i.e
+all requirements are coded first
+then designed , then coded , then testing, and then deploying the app
+
+
+In agile model, requirements are broken down into small parts and developed individually
+
+agile					waterfall
+-----					---------
+takes weeks				takes months
+
+
+Main advantages of agile
+
+1. Quick time to market
+
+2. Respond to changes quickly with quality
+
+ 
+Roles (People who are part of a sprint)
+---------------------------------------
+
+
+1. product owner
+
+responsible for vision and goals of release, Return On Investment, date and scope of release
+
+2. Scrum Master
+
+Responsible for scrum process, problem solving and protection of development team
+
+3. Development Team
+
+Responsible for the work done
+
+
+Ceremonies (Meetings conducted in a sprint)
+--------------------------------------------
+
+1.Sprint Planning Meeting - Meeting conducted in the beginning of the sprint
+
+2.Daily Scrum Meeting - Everyday meeting in a sprint where team members update on the status of their work
+
+3.Sprint Review  - Meeting at end of sprint where the product owner checks the doneness of the sprint 
+
+4.Sprint Retrospection 
+
+A retrospective meeting is held at the end of every iteration to discuss what really went well and what didn’t go well and any action items to carry over the next Sprint. Its basically learning from the past and try to improve in the upcoming sprint
+
+5.Product Backlog Refinement- Sprinting ahead session to refine requirements for the upcoming sprints
+
+
+ Artifacts (Deliverables produced)
+----------------------------------
+
+
+1. Product Backlog - Pending list of items to be developed
+
+2. Sprint Backlog - List of tasks planned for the current sprint 
+
+3. Increment - Working version of the software produced in the sprint
+
+
+-------------------------------------------
+
+sprint :
+-------
+
+It is a short period of time during which the development team develop and deliver the product 
+
+
+cross functional :
+------------------
+
+Cross-Functional team is such team that includes the people with different skills not only development for example like testing etc and work towards a common goal.
+
+DoD: (definition of done)
+-------------------------
+
+It is some set of conditions that a user story has to fulfill so that it is accepted by customer, user , team and the stakeholders
+  
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
